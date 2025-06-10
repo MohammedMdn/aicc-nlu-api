@@ -1,0 +1,14 @@
+# ---- Core API Framework ----
+fastapi
+uvicorn
+
+# ---- Machine Learning Model & Pipeline ----
+# On ne spécifie pas la version de torch car il est préférable de l'installer séparément
+# ou de laisser pip résoudre la dépendance en fonction de la plateforme (CPU/GPU)
+# mais pour une image Docker déterministe, la figer est une option.
+torch==2.7.1
+transformers==4.52.4
+
+# ---- FastAPI Specific ----
+# Nécessaire pour gérer les formulaires et le téléversement de fichiers, bonne pratique.
+python-multipart
