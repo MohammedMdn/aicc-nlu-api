@@ -1,3 +1,12 @@
+---
+title: Darija AICC NLU API
+emoji: 🚀
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_port: 8000
+---
+
 # API de Classification d'Intention en Darija pour AICC
 
 Ce projet a été développé dans le cadre d'un Projet de Fin d'Études visant à intégrer le dialecte marocain "Darija" dans la solution **AICC (Artificial Intelligence Contact Center)** de Huawei.
