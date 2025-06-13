@@ -9,7 +9,7 @@ app_port: 8000
 
 # API de Classification d'Intention en Darija pour AICC
 
-Ce projet a été développé dans le cadre d'un Projet de Fin d'Études visant à intégrer le dialecte marocain "Darija" dans la solution **AICC (Artificial Intelligence Contact Center)** de Huawei.
+Ce projet a été développé dans le cadre d'un stage de fin d'études visant à intégrer le dialecte marocain "Darija" dans la solution **AICC (Artificial Intelligence Contact Center)** de Huawei.
 
 L'API utilise un modèle **MARBERTv2**, un Transformer pré-entraîné pour l'arabe et ses dialectes, qui a été fine-tuné sur un corpus personnalisé pour classifier les intentions des utilisateurs s'exprimant en Darija.
 
